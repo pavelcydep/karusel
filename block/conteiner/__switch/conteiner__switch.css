@@ -1,0 +1,12 @@
+.conteiner__switch{
+	cursor:pointer;
+	border-radius: 50%;
+	width:12px;
+	height:12px;
+	background-color: #bbb;
+	display:inline-block;
+	
+}
+.conteiner__switch:hover{
+	background-color:#717171;
+}

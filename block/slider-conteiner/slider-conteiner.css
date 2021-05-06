@@ -1,0 +1,13 @@
+@import url(./__image/slider-conteiner__image.css);
+@import url(./_active/slider-conteiner_active.css);
+.slider-conteiner{
+	display: none;
+	max-width: 300px;
+	min-height: 300px;
+	margin-top: 100px;
+	position: relative;
+	
+	margin-top: 0px;
+	margin-left: auto;
+    margin-right: auto;
+}

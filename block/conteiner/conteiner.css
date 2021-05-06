@@ -1,0 +1,6 @@
+@import url(./__switch/conteiner__switch.css);
+@import url(./_active/conteiner__switch_active.css);
+.conteiner{
+    text-align: center;
+    background: darkgrey;
+}
