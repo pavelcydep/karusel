@@ -1,2 +1,2 @@
 # karusel
-![](carusel.png);
+![](carusel.png)
